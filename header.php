@@ -66,11 +66,10 @@
 <p>
     <button
   type="button"
-  class="qu_btn"
   style="background-color: #128c7e">
   <svg
     xmlns="http://www.w3.org/2000/svg"
-    class="h-4 w-4"
+    class="h-25 w-25"
     fill="currentColor"
     viewBox="0 0 24 24">
     <path
