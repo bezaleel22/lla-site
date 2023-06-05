@@ -7,7 +7,7 @@ networks:
     name: nginx-proxy-manager_default
 
 services:
-  website:
+  lla_site:
     container_name: lla_site
     restart: unless-stopped
     build:
