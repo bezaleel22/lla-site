@@ -2,6 +2,7 @@ version: "3.8"
 
 services:
   website:
+    container_name: lla_site
     restart: unless-stopped
     build:
       context: .
