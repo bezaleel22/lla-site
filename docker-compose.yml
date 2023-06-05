@@ -1,5 +1,13 @@
 version: "3.8"
 
+networks:
+  school_net:
+    external:
+      name: databases_db_net
+  nginx-proxy-net:
+    external:
+      name: nginx-proxy-manager_default
+
 services:
   website:
     container_name: lla_site
@@ -12,4 +20,6 @@ services:
       - 3000
     volumes:
       - ./:/var/www/html/website:rw
-
+    networks:
+      - school_net
+      - nginx-proxy-net
