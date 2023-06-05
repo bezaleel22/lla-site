@@ -139,7 +139,7 @@
 <div class="accessNav">
  <a href="javascript:void(0);" class="menuToggler"><i class="twi-bars1"></i></a>
 
-<a href="portal/login.html" class="qu_btn">Student portal</a>
+<a href="https://llacademy.ng/parent-dashboard" class="qu_btn">Student portal</a>
 </div>
 </div>
 </div>
