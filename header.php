@@ -61,7 +61,7 @@
 <div class="ib_box">
      <svg
     xmlns="http://www.w3.org/2000/svg"
-   class="h-25 w-25"
+   style="height:48;width: 48;"
     fill="currentColor"
     viewBox="0 0 24 24">
     <path
