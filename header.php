@@ -58,7 +58,7 @@
 </div>
 <div class="navleft">
 <div class="icon_box_04">
-<div class="ib_box"><i class="fa-brands fa-whatsapp"></i></div>
+<div class="ib_box"><i class="twi-comments-alt-dollar"></i></div>
 <p>Have any Questions?</p>
 <h3>+2348127823406</h3>
 </div>
