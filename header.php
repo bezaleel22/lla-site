@@ -58,7 +58,7 @@
 </div>
 <div class="navleft">
 <div class="icon_box_04">
-<div class="ib_box">
+<a href=" " class="ib_box">
      <svg
     xmlns="http://www.w3.org/2000/svg"
    style="height:48;width: 48;"
@@ -70,9 +70,7 @@
 </div>
 <p>Have any Questions?</p>
 <h3>+2348127823406</h3>
-<p>
-</p>
-</div>
+</a>
 <div class="searchBtn">
 <a href="javascript:void(0);"><i class="twi-search2"></i></a>
 <div class="header01SearchBar">
