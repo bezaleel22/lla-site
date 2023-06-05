@@ -66,6 +66,7 @@
 <p>
     <button
   type="button"
+  class="qu_btn"
   style="background-color: #128c7e">
   <svg
     xmlns="http://www.w3.org/2000/svg"
