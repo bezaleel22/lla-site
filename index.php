@@ -155,7 +155,7 @@ nurture and care to Infants, Toddlers and Pre-Schoolers.</strong>
 <div class="subTitle"><span class="bleft"></span>Discover The Leading Academy</div>
 <h2 class="secTitle">The Director</h2>
 <p class="secDesc">
-<strong>Welcome Welcome to Light house academy ,</strong> the flagship of Christian Education in Africa. I am delighted to inform you of the wise choice you have made to come to this institution.It is, indeed,an informed and intelligent choice.
+<strong>Welcome to Light house academy ,</strong> the flagship of Christian Education in Africa. I am delighted to inform you of the wise choice you have made to come to this institution.It is, indeed,an informed and intelligent choice.
 This is because the school has tremendous spiritual and academic heritage, together with abundant opportunities for the maximization of your potential.<br><br>
 
 </p>
