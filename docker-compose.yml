@@ -2,11 +2,9 @@ version: "3.8"
 
 networks:
   school_net:
-    external:
-      name: databases_db_net
+    name: databases_db_net
   nginx-proxy-net:
-    external:
-      name: nginx-proxy-manager_default
+    name: nginx-proxy-manager_default
 
 services:
   website:
