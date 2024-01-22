@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>About us - Light House Academy</title>
+    <title>About us - Lighthouse Academy</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
 
@@ -44,14 +44,14 @@
                     <div class="abpd">
                         <div class="subTitle">
                             <span class="bleft"></span>
-                            Discover LightHouse Academy
+                            Discover Lighthouse Academy
                         </div>
                         <h2 class="secTitle">Empowering Futures</h2>
                         <p class="secDesc">
-                            Welcome to LightHouse Leading Academy, the pinnacle of Christian Education in Africa. Your decision to join us reflects a wise and informed choice, as we offer a rich blend of spiritual heritage and academic excellence, providing ample opportunities for your fullest potential.
+                            Welcome to Lighthouse Leading Academy, the pinnacle of Christian Education in Africa. Your decision to join us reflects a wise and informed choice, as we offer a rich blend of spiritual heritage and academic excellence, providing ample opportunities for your fullest potential.
                         </p>
                         <p class="secDesc">
-                            Light House Academy is committed to delivering a comprehensive, world-class education that nurtures the creative core of every child. Our curriculum seamlessly integrates Nigerian, British, and Christian principles, taught by a highly trained faculty. In a secure, stimulating environment, we strive for a well-rounded development of our students.
+                            Lighthouse Academy is committed to delivering a comprehensive, world-class education that nurtures the creative core of every child. Our curriculum seamlessly integrates Nigerian, British, and Christian principles, taught by a highly trained faculty. In a secure, stimulating environment, we strive for a well-rounded development of our students.
                         </p>
                         <hr>
                         <p class="secDesc">

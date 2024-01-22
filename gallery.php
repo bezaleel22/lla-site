@@ -3,7 +3,7 @@
 
 
 <head>
-    <title>Gallery - LightHouse Academy </title>
+    <title>Gallery - Lighthouse Academy </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
 
