@@ -11,15 +11,20 @@
               <li class=" current-menu-item">
                 <a href="index.php">Home</a>
               </li>
-              <li><a href="academics.php">Academics</a></li>
+
+              <li class="menu-item-has-children">
+                <a href="javascript:void(0);">Academics</a>
+                <ul class="sub-menu">
+                  <li><a href="academics.php">Academic Structure</a></li>
+                  <li><a href="">School Calender</a></li>
+                  <li><a href="resources.php">Resources</a></li>
+                </ul>
+              </li>
               <li class="menu-item-has-children">
                 <a href="javascript:void(0);">About Us</a>
                 <ul class="sub-menu">
-                  <li><a href="about.php">About Light House</a></li>
-                  <li><a href="">School Calender</a></li>
-                  <li>
-                    <a href="resources.php">Resources</a>
-                  </li>
+                  <li><a href="about.php">About LightHouse</a></li>
+                  <li><a href="">School History</a></li>
                 </ul>
               </li>
               <li class="menu-item-has-children">
