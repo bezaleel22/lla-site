@@ -1,23 +1,100 @@
-version: "3.8"
-
-networks:
-  school_net:
-    name: databases_db_net
-  nginx-proxy-net:
-    name: nginx-proxy-manager_default
-
+version: "3.9"
+volumes:
+  db_data:
+  
 services:
-  lla_site:
-    container_name: lla_site
+  php-fpm:
+    container_name: eduweb
+    image: php:8.2-fpm-alpine
     restart: unless-stopped
-    build:
-      context: .
-      dockerfile: ./Dockerfile
-      target: website
-    ports:
-      - 3000
     volumes:
-      - ./:/var/www/html/website:rw
-    networks:
-      - school_net
-      - nginx-proxy-net
+        - ./:/var/www/html
+
+  nginx:
+    container_name: eduserver
+    image: nginx:alpine
+    depends_on:
+        - php-fpm
+    restart: unless-stopped
+    ports:
+        - 8000:80
+    volumes:
+        - ./:/var/www/html
+        - ./docker/nginx.conf:/etc/nginx/conf.d/default.conf
+        
+#         1. Our Staffs have been trained to be content-ready in order to provide high quality service professionally in a world class institution.
+# 2. We develop children as global thinkers, independent, healthy, moral and lifelong learners.
+# 3. We help each individual to embrace and celebrate their uniqueness and diversity.
+# 4.We educate the whole child in a holistic and inclusive way.
+# 5. We create the safest, happiest, supportive and stimulating learning environment possible.
+# 6. We guide all children to develop high self-esteem, self-worth, self-discipline and self-respect.
+# 7. We ensure that all feel listened to, cared for and valued.
+
+    # <section class="chooseSection03">
+    #     <div class="container largeContainer">
+    #         <div class="row">
+    #             <div class="col-xl-6 pdAcc">
+    #                 <div class="subTitle"><span class="bleft"></span>Why Choose
+    #                     Us</div>
+    #                 <h2 class="secTitle">Get Every Answer</h2>
+    #                 <div class="accordion quAccordion" id="quAccordion01">
+    #                     <div class="card">
+    #                         <div class="card-header" id="ma_ac_01">
+    #                             <h2 class="mb-0">
+
+    #                             </h2>
+    #                             <p><strong>
+
+    #                                     1. Our Staffs have been trained to be
+    #                                     content-ready in order to provide high
+    #                                     quality service
+    #                                     professionally in a world class
+    #                                     institution. <br>
+    #                                     2. We develop children as global
+    #                                     thinkers, independent, healthy, moral
+    #                                     and
+    #                                     lifelong learners.<br>
+    #                                     3. We help each individual to embrace
+    #                                     and celebrate their uniqueness and
+    #                                     diversity.<br>
+    #                                     4.We educate the whole child in a
+    #                                     holistic and inclusive way.<br>
+    #                                     5. We create the safest, happiest,
+    #                                     supportive and stimulating learning
+    #                                     environment possible.<br>
+    #                                     6. We guide all children to develop high
+    #                                     self-esteem, self-worth, self-discipline
+    #                                     and self-respect.<br>7. We ensure that
+    #                                     all feel listened to, cared for and
+    #                                     valued.</p>
+    #                             </strong>
+    #                         </div>
+
+    #                     </div>
+
+
+
+    #                 </div>
+    #             </div>
+    #             <div class="col-xl-6">
+    #                 <div class="chImage">
+    #                     <img src="assets/images/home3/3.png" alt="">
+    #                 </div>
+    #                 <div class="chooseSlider owl-carousel">
+    #                     <div class="chsItem">
+    #                         <img src="assets/images/home3/4.png" alt="">
+    #                         <p><strong>We nurture and train the next generation
+    #                                 by means of world class education.</strong>
+    #                         </p>
+    #                     </div>
+    #                     <div class="chsItem">
+    #                         <img src="assets/images/home3/4.png" alt="">
+    #                         <p><strong>We orient, inspire, imbue and empower
+    #                                 young minds with productive principles and
+    #                                 the fear of God.</strong></p>
+    #                     </div>
+    #                 </div>
+    #             </div>
+    #         </div>
+    #     </div>
+    # </section>

@@ -3,7 +3,7 @@
 
 
 <head>
-    <title>Resources -Light House Academy </title>
+    <title>Gallery - LightHouse Academy </title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
 
@@ -35,10 +35,10 @@
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-md-8">
-                    <h2 class="banner-title">Our Online Learning Resources</h2>
+                    <h2 class="banner-title">Explore<br>Our Gallery.</h2>
                 </div>
                 <div class="col-md-4 text-right">
-                    <p class="breadcrumbs"><a href="index.php" rel="v:url"><i class="twi-home-alt1"></i>Home</a><span>/</span>Resources</p>
+                    <p class="breadcrumbs"><a href="index.php" rel="v:url"><i class="twi-home-alt1"></i>Home</a><span>/</span>Gallery</p>
                 </div>
             </div>
         </div>
