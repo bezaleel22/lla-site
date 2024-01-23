@@ -105,7 +105,7 @@
                             <div class="col-md-7 input-field">
                                 <label>
                                     <input type="checkbox" name="subscribe" value="Also subscribe us">
-                                    <span class="wpcf7-list-item-label">I Agree to get-e- mails about future conferences.</span>
+                                    <span class="wpcf7-list-item-label">I Agree to get e-mails about future conferences.</span>
                                 </label>
                             </div>
                             <div class="input-field col-md-12">

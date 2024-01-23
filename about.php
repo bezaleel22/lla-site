@@ -102,8 +102,8 @@
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <div class="subTitle"><span class="bleft"></span>Our Memebers<span class="bright"></span></div>
-                    <h2 class="secTitle">Expert <span>Teams</span></h2>
+                    <div class="subTitle"><span class="bleft"></span>Managment<span class="bright"></span></div>
+                    <h2 class="secTitle">Meet the <span>Administrators</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -118,8 +118,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Georgie Haynes</a></h3>
-                        <p>Business Expert</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Abigail John</a></h3>
+                        <p>Administration</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -133,8 +133,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Lara Maleon</a></h3>
-                        <p>Managment</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Moses Charles Apeh</a></h3>
+                        <p>Human Resources</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -148,8 +148,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Adam Delaua</a></h3>
-                        <p>Founder</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Patience Okwube</a></h3>
+                        <p>Academics</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -163,8 +163,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Jizz Merkel</a></h3>
-                        <p>Consultant</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Brown Onojeta</a></h3>
+                        <p>IT</p>
                     </div>
                 </div>
             </div>
@@ -188,7 +188,7 @@
                         <div class="icon_box_08">
                             <div class="ib_box"><i class="icon-gGaLLZ01"></i><span>01</span></div>
                             <h3>Active & Excited</h3>
-                            <p>Be excited about learning
+                            <p>Be excited about learning,
                                 Achieve their own level of academic excellence</p>
                         </div>
                         <div class="icon_box_08">
