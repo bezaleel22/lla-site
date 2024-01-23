@@ -43,9 +43,9 @@
                                     <a href="javascript:void(0);">Academics</a>
                                     <ul class="sub-menu">
                                         <li><a href="admission.php">Admission</a></li>
-                                        <li><a href="">Coriculum</a></li>
+                                        <li><a href="classrooms.php">Classrooms</a></li>
                                         <li><a href="">School Calender</a></li>
-                                        <li><a href="resources.php">Resources</a></li>
+                                        <li><a href="resources.php">Take a tour</a></li>
                                     </ul>
                                 </li>
 
@@ -99,7 +99,7 @@
                         <a href="javascript:void(0);">Academics</a>
                         <ul class="sub-menu">
                             <li><a href="admission.php">Admission</a></li>
-                            <li><a href="">Coriculum</a></li>
+                            <li><a href="classrooms.php">Classrooms</a></li>
                             <li><a href="">School Calender</a></li>
                             <li><a href="resources.php">Resources</a></li>
                         </ul>

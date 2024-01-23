@@ -177,11 +177,8 @@
                                         </a>
                                         <div class="hcinner">
 
-                                            <h3>Primary
-
-                                                education.</h3>
+                                            <h3>Primary education.</h3>
                                             <P> On the way is a world class facility that will provide full Primary
-
                                                 education.
                                         </div>
                                     </div>

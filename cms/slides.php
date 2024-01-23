@@ -41,7 +41,7 @@ include 'upload_slides.php';
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>News Alert | Light house academy</title>
+    <title>News Alert | Lighthouse Leading Academy</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->

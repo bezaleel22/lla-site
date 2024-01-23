@@ -2,7 +2,7 @@
     <div class="container largeContainer">
         <div class="row">
             <div class="col-lg-7 col-md-6">
-                <h2 class="secTitle">Sign up for latest news and<br> insights from <span>Light house academy.</span></h2>
+                <h2 class="secTitle">Sign up for latest news and<br> insights from <span>Lighthouse Leading Academy.</span></h2>
             </div>
             <div class="col-lg-5 col-md-6">
                 <div class="SubsrcribeForm">
@@ -74,7 +74,7 @@
     <div class="container largeContainer">
         <div class="row">
             <div class="col-md-6">
-                <p>© 2022 - 2022 Light house academy. All Rights Reserved.</p>
+                <p>© 2022 - 2022 Lighthouse Leading Academy. All Rights Reserved.</p>
             </div>
             <div class="col-md-6">
                 <div class="copyMenu">
