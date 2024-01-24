@@ -8,8 +8,10 @@
           </div>
           <nav class="mainMenu">
             <ul>
+
               <li class=" current-menu-item"><a href="index.php">Home</a></li>
-              <li class="menu-item-has-children">
+              <li><a href="admission.php">Admission</a></li>
+              <!-- <li class="menu-item-has-children">
                 <a href="javascript:void(0);">Academics</a>
                 <ul class="sub-menu">
                   <li><a href="admission.php">Admission</a></li>
@@ -17,27 +19,28 @@
                   <li><a href="">School Calender</a></li>
                   <li><a href="resources.php">Resources</a></li>
                 </ul>
-              </li>
+              </li> -->
 
-              <li class="menu-item-has-children">
+              <li><a href="portfolio.php">Porfolio</a></li>
+              <!-- <li class="menu-item-has-children">
                 <a href="javascript:void(0);">Porfolio</a>
                 <ul class="sub-menu">
                   <li><a href="gallery.php">Sports</a></li>
                   <li><a href="academics.php">Speech and Price Giving Day</a></li>
                   <li><a href="">Young Inventors Club</a></li>
                 </ul>
-              </li>
-
-              <li class="menu-item-has-children">
+              </li> -->
+              <li><a href="about.php">About Us</a></li>
+              <!-- <li class="menu-item-has-children">
                 <a href="javascript:void(0);">About Us</a>
                 <ul class="sub-menu">
                   <li><a href="about.php">About Lighthouse</a></li>
                   <li><a href="">School History</a></li>
                 </ul>
-              </li>
+              </li> -->
 
               <li><a href="contact.php">Contact</a></li>
-              <li><a href="lla_news.php">Blog</a></li>
+              <!-- <li><a href="lla_news.php">Blog</a></li> -->
 
             </ul>
           </nav>
@@ -83,36 +86,39 @@
     </div>
     <div class="SMABody">
       <ul>
+
         <li class=" current-menu-item"><a href="index.php">Home</a></li>
-        <li class="menu-item-has-children">
-          <a href="javascript:void(0);">Academics</a>
-          <ul class="sub-menu">
-            <li><a href="admission.php">Admission</a></li>
-            <li><a href="">Coriculum</a></li>
-            <li><a href="">School Calender</a></li>
-            <li><a href="resources.php">Resources</a></li>
-          </ul>
-        </li>
+        <li><a href="admission.php">Admission</a></li>
+        <!-- <li class="menu-item-has-children">
+                <a href="javascript:void(0);">Academics</a>
+                <ul class="sub-menu">
+                  <li><a href="admission.php">Admission</a></li>
+                  <li><a href="">Coriculum</a></li>
+                  <li><a href="">School Calender</a></li>
+                  <li><a href="resources.php">Resources</a></li>
+                </ul>
+              </li> -->
 
-        <li class="menu-item-has-children">
-          <a href="javascript:void(0);">Porfolio</a>
-          <ul class="sub-menu">
-            <li><a href="gallery.php">Sports</a></li>
-            <li><a href="academics.php">Speech and Price Giving Day</a></li>
-            <li><a href="">Young Inventors Club</a></li>
-          </ul>
-        </li>
-
-        <li class="menu-item-has-children">
-          <a href="javascript:void(0);">About Us</a>
-          <ul class="sub-menu">
-            <li><a href="about.php">About Lighthouse</a></li>
-            <li><a href="">School History</a></li>
-          </ul>
-        </li>
+        <li><a href="portfolio.php">Porfolio</a></li>
+        <!-- <li class="menu-item-has-children">
+                <a href="javascript:void(0);">Porfolio</a>
+                <ul class="sub-menu">
+                  <li><a href="gallery.php">Sports</a></li>
+                  <li><a href="academics.php">Speech and Price Giving Day</a></li>
+                  <li><a href="">Young Inventors Club</a></li>
+                </ul>
+              </li> -->
+        <li><a href="about.php">About Us</a></li>
+        <!-- <li class="menu-item-has-children">
+                <a href="javascript:void(0);">About Us</a>
+                <ul class="sub-menu">
+                  <li><a href="about.php">About Lighthouse</a></li>
+                  <li><a href="">School History</a></li>
+                </ul>
+              </li> -->
 
         <li><a href="contact.php">Contact</a></li>
-        <li><a href="lla_news.php">Blog</a></li>
+        <!-- <li><a href="lla_news.php">Blog</a></li> -->
 
       </ul>
       </nav>
@@ -138,40 +144,39 @@
       </div>
       <div class="SMABody">
         <ul>
-          <li class="current-menu-item">
-            <a href="index.php">Home</a>
 
-          </li>
-          <li class="menu-item-has-children">
-            <a href="javascript:void(0);">About Us</a>
-            <ul class="sub-menu">
-              <li><a href="about.php">About Lighthouse</a></li>
-              <li><a href="academics.php">Academics</a></li>
-              <li><a href="">School Calender</a></li>
-              <li><a href="resources.php">Resources</a></li>
-            </ul>
-          </li>
-          <li class="menu-item-has-children">
-            <a href="javascript:void(0);">News & Media</a>
-            <ul class="sub-menu">
-              <li><a href="lla_news.php">News Alert</a></li>
-              <li><a href="blog.php">Blog </a></li>
-              <li><a href="contact.php">Contact us</a></li>
-            </ul>
-          </li>
-          <li class="">
-            <a href="admission.php">Admission</a>
+          <li class=" current-menu-item"><a href="index.php">Home</a></li>
+          <li><a href="admission.php">Admission</a></li>
+          <!-- <li class="menu-item-has-children">
+                <a href="javascript:void(0);">Academics</a>
+                <ul class="sub-menu">
+                  <li><a href="admission.php">Admission</a></li>
+                  <li><a href="">Coriculum</a></li>
+                  <li><a href="">School Calender</a></li>
+                  <li><a href="resources.php">Resources</a></li>
+                </ul>
+              </li> -->
 
-          </li>
+          <li><a href="portfolio.php">Porfolio</a></li>
+          <!-- <li class="menu-item-has-children">
+                <a href="javascript:void(0);">Porfolio</a>
+                <ul class="sub-menu">
+                  <li><a href="gallery.php">Sports</a></li>
+                  <li><a href="academics.php">Speech and Price Giving Day</a></li>
+                  <li><a href="">Young Inventors Club</a></li>
+                </ul>
+              </li> -->
+          <li><a href="about.php">About Us</a></li>
+          <!-- <li class="menu-item-has-children">
+                <a href="javascript:void(0);">About Us</a>
+                <ul class="sub-menu">
+                  <li><a href="about.php">About Lighthouse</a></li>
+                  <li><a href="">School History</a></li>
+                </ul>
+              </li> -->
 
-          <li class="current-menu-item">
-            <a href="gallery.php">Gallery</a>
-          </li>
-
-
-          <li class="current-menu-item">
-            <a href="contact.php">Contact us</a>
-          </li>
+          <li><a href="contact.php">Contact</a></li>
+          <!-- <li><a href="lla_news.php">Blog</a></li> -->
 
         </ul>
         </li>

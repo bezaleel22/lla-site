@@ -49,9 +49,6 @@ $pid = safe_decode($_GET["pid"]);
 
 <body>
     <?php include "header2.php"; ?>
-
-
-
     <section class="blogPage">
         <div class="container largeContainer">
             <div class="row">

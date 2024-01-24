@@ -61,6 +61,7 @@
                     <p class="secDesc">
                         Welcome to Lighthouse Leading Academy, the epitome of Christian Education in Africa. I'm thrilled to share the news that you've made a wise decision by choosing to be a part of this institution. It truly reflects an informed and intelligent choice. The school boasts a rich blend of spiritual and academic heritage, offering abundant opportunities for the maximization of your potential.
                     </p>
+                    <p><a class="qu_btn" href="about.php">About Us</a></p>
                     <div class="row">
                         <div class="col-md-5">
                             <div class="fact_01">
@@ -131,7 +132,7 @@
                     <p class="secDesc">Have a question? check our guide</p>
                     <h4>Get answers in few minutes</h4>
                     <div class="clearfix"></div>
-                    <a class="qu_btn" href="contact.html">Contact Us</a>
+                    <a class="qu_btn" href="contact.php">Contact Us</a>
                 </div>
             </div>
         </div>
@@ -282,7 +283,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <div class="subTitle"><span class="bleft"></span>Our Instructors<span class="bright"></span></div>
-                    <h2 class="secTitle white">Expert Teams</h2>
+                    <h2 class="secTitle">Expert<span>Team</span></h2>
                 </div>
             </div>
         </div>
@@ -389,7 +390,7 @@
                 </div>
                 <div class="col-xl-6">
                     <div class="chImage">
-                        <img src="assets/images/home3/3.png" alt="">
+                        <img src="assets/images/home3/3.webp" alt="">
                     </div>
                     <div class="chooseSlider owl-carousel owl-loaded owl-drag">
 
@@ -398,7 +399,7 @@
                             <div class="owl-stage" style="transform: translate3d(-378px, 0px, 0px); transition: all 0s ease 0s; width: 1134px;">
                                 <div class="owl-item cloned" style="width: 189px;">
                                     <div class="chsItem">
-                                        <img src="assets/images/home3/4.png" alt="">
+                                        <img src="assets/images/home3/3.png" alt="">
                                         <p>Where we nurture and train the next generation by means of world class education.</p>
                                     </div>
                                 </div>
@@ -452,7 +453,7 @@
                                 <div class="owl-item cloned" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/9.jpg" alt="">
+                                            <img src="assets/images/folio/2.webp" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
@@ -464,31 +465,31 @@
                                 <div class="owl-item cloned" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/10.jpg" alt="">
+                                            <img src="assets/images/folio/3.webp" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
                                             <h3><a href="single-folio.html">Business Managment</a></h3>
                                             <a class="cat" href="https://themewar.com/html/quera/folio1.html">Consultancy</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 313px;">
+                                    <div class="folioItem03">
+                                        <div class="flThumb">
+                                            <img src="assets/images/folio/4.webp" alt="">
+                                            <a href="single-folio.html">+</a>
+                                        </div>
+                                        <div class="folioContent">
+                                            <h3><a href="single-folio.html">Growth Instruction</a></h3>
+                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Business</a>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="owl-item active" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/9.jpg" alt="">
-                                            <a href="single-folio.html">+</a>
-                                        </div>
-                                        <div class="folioContent">
-                                            <h3><a href="single-folio.html">Growth Instruction</a></h3>
-                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Business</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="owl-item" style="width: 313px;">
-                                    <div class="folioItem03">
-                                        <div class="flThumb">
-                                            <img src="assets/images/folio/10.jpg" alt="">
+                                            <img src="assets/images/folio/5.webp" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
@@ -500,7 +501,7 @@
                                 <div class="owl-item cloned" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/9.jpg" alt="">
+                                            <img src="assets/images/folio/6.webp" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
@@ -512,7 +513,7 @@
                                 <div class="owl-item cloned" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/10.jpg" alt="">
+                                            <img src="assets/images/folio/7.webp" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
@@ -529,7 +530,7 @@
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <div class="fThumb">
-                        <img src="assets/images/home3/1.jpg" alt="">
+                        <img src="assets/images/home3/1.webp" alt="">
                         <a href="https://themewar.com/html/quera/folio1.html">View</a>
                     </div>
                 </div>
@@ -537,7 +538,7 @@
         </div>
     </section>
 
-    <section class="blogSectiont03">
+    <!-- <section class="blogSectiont03">
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -550,25 +551,25 @@
                     <div class="blogItem03">
                         <div class="blogContent">
                             <div class="bmeta">
-                                <span><i class="twi-folder2"></i><a href="blog1.html">Develop</a></span>|<span><i class="twi-user2"></i><a href="blog1.html">David Smith</a></span>
+                                <span><i class="twi-folder2"></i><a href="blog1.php">Develop</a></span>|<span><i class="twi-user2"></i><a href="blog1.php">David Smith</a></span>
                             </div>
-                            <h3><a href="single-blog.html">Accounting departments are usually responsible</a></h3>
+                            <h3><a href="blog1.php">Accounting departments are usually responsible</a></h3>
                         </div>
                         <div class="blogThumb">
-                            <img src="assets/images/blog/3.jpg" alt="">
+                            <img src="assets/images/blog/1.webp" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6">
                     <div class="blogItem03 bborder">
                         <div class="blogThumb">
-                            <img src="assets/images/blog/4.jpg" alt="">
+                            <img src="assets/images/blog/2.webp" alt="">
                         </div>
                         <div class="blogContent">
                             <div class="bmeta">
-                                <span><i class="twi-folder2"></i><a href="blog1.html">Marketing</a></span>|<span><i class="twi-user2"></i><a href="blog1.html">David Smith</a></span>
+                                <span><i class="twi-folder2"></i><a href="blog2.php">Marketing</a></span>|<span><i class="twi-user2"></i><a href="blog2.php">David Smith</a></span>
                             </div>
-                            <h3><a href="single-blog.html">The accounting department also keeps detailed records</a></h3>
+                            <h3><a href="blog2.php">The accounting department also keeps detailed records</a></h3>
                         </div>
                     </div>
                 </div>
@@ -576,18 +577,18 @@
                     <div class="blogItem03">
                         <div class="blogContent">
                             <div class="bmeta">
-                                <span><i class="twi-folder2"></i><a href="blog1.html">Develop</a></span>|<span><i class="twi-user2"></i><a href="blog1.html">David Smith</a></span>
+                                <span><i class="twi-folder2"></i><a href="blog3.php">Develop</a></span>|<span><i class="twi-user2"></i><a href="blog3.php">David Smith</a></span>
                             </div>
-                            <h3><a href="single-blog.html">Discovering Sydney’s See Attractions line</a></h3>
+                            <h3><a href="blog3.php">Discovering Sydney’s See Attractions line</a></h3>
                         </div>
                         <div class="blogThumb">
-                            <img src="assets/images/blog/5.jpg" alt="">
+                            <img src="assets/images/blog/3.webp" alt="">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <?php include "footer.php"; ?>
 
