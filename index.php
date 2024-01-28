@@ -5,27 +5,24 @@
     <title>Lighthouse Academy</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
-
-    <link rel="stylesheet" href="assets/css/bootstrap.css" />
-    <link rel="stylesheet" href="assets/css/animate.css" />
-    <link rel="stylesheet" href="assets/css/themewar-font.css" />
-    <link rel="stylesheet" href="assets/css/quera-icon.css" />
-    <link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-    <link rel="stylesheet" href="assets/css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="assets/css/jquery.datetimepicker.min.css">
-    <link rel="stylesheet" href="assets/css/nice-select.css">
-    <link rel="stylesheet" href="assets/css/lightcase.css">
-
-    <link rel="stylesheet" type="text/css" href="assets/css/settings.css">
-    <link rel="stylesheet" href="assets/css/preset.css" />
-    <link rel="stylesheet" href="assets/css/ignore_for_wp.css" />
-    <link rel="stylesheet" href="assets/css/theme.css" />
-    <link rel="stylesheet" href="assets/css/responsive.css" />
-
-
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
-    <?php include "patials/prefetch.php"; ?>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/bootstrap.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/animate.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/themewar-font.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/quera-icon.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/jquery.datetimepicker.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/nice-select.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/lightcase.css">
 
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/settings.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/preset.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/ignore_for_wp.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/theme.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/responsive.css" />
+    
+    <?php include "patials/prefetch.php"; ?>
     <script>
         document.addEventListener('DOMContentLoaded', function() {
             var areaOfInterest = document.getElementsByName('sponsor_interest')[0];
@@ -623,41 +620,41 @@
 
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
     </script>
-    <script src="assets/js/jquery.js"></script>
-    <script src="assets/js/bootstrap.min.js"></script>
-    <script src="assets/js/jquery.appear.js"></script>
-    <script src="assets/js/owl.carousel.min.js"></script>
-    <script src="assets/js/shuffle.min.js"></script>
-    <script src="assets/js/nice-select.js"></script>
-    <script src="assets/js/lightcase.js"></script>
-    <script src="assets/js/jquery.datetimepicker.full.min.js"></script>
-    <script src="assets/js/circle-progress.js"></script>
-    <script src="assets/js/gmaps.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/jquery.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/jquery.appear.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/owl.carousel.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/shuffle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/nice-select.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/lightcase.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/jquery.datetimepicker.full.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/circle-progress.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/gmaps.js"></script>
     <script src="https://maps.google.com/maps/api/js?key=AIzaSyBJtPMZ_LWZKuHTLq5o08KSncQufIhPU3o">
     </script>
 
-    <script src="assets/js/jquery.themepunch.tools.min.js"></script>
-    <script src="assets/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/jquery.themepunch.tools.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/jquery.themepunch.revolution.min.js"></script>
 
-    <script src="assets/js/extensions/revolution.extension.actions.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.actions.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.carousel.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.carousel.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.kenburn.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.kenburn.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.layeranimation.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.layeranimation.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.migration.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.migration.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.navigation.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.navigation.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.parallax.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.parallax.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.slideanims.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.slideanims.min.js">
     </script>
-    <script src="assets/js/extensions/revolution.extension.video.min.js">
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/extensions/revolution.extension.video.min.js">
     </script>
-    <script src="assets/js/theme.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/js/theme.js"></script>
 
 </body>
 
