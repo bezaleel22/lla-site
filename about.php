@@ -71,7 +71,6 @@
         </div>
     </section>
 
-
     <section class="videoFact01 bg_f9f9f9">
         <div class="container largeContainer">
             <div class="row">
@@ -98,19 +97,20 @@
             </div>
         </div>
     </section>
+
     <section class="teamSection01 bg_fef4f4">
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <div class="subTitle"><span class="bleft"></span>Our Memebers<span class="bright"></span></div>
-                    <h2 class="secTitle">Expert <span>Teams</span></h2>
+                    <div class="subTitle"><span class="bleft"></span>Our Admin<span class="bright"></span></div>
+                    <h2 class="secTitle">Meet The <span>Team</span></h2>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-3 col-md-6">
                     <div class="team_01 text-center">
                         <div class="tm_thumb">
-                            <img src="assets/images/team/1.jpg" alt="">
+                            <img src="assets/images/team/2.webp" alt="">
                             <div class="tm_social">
                                 <a href="https://www.facebook.com/"><i class="twi-facebook-f"></i></a>
                                 <a href="https://linkedin.com/"><i class="twi-linkedin-in"></i></a>
@@ -118,14 +118,14 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Georgie Haynes</a></h3>
-                        <p>Business Expert</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Abigirl OJ</a></h3>
+                        <p>Managment</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="team_01 text-center">
                         <div class="tm_thumb">
-                            <img src="assets/images/team/2.jpg" alt="">
+                            <img src="assets/images/team/1.webp" alt="">
                             <div class="tm_social">
                                 <a href="https://www.facebook.com/"><i class="twi-facebook-f"></i></a>
                                 <a href="https://linkedin.com/"><i class="twi-linkedin-in"></i></a>
@@ -134,13 +134,13 @@
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
                         <h3><a href="https://themewar.com/html/quera/single-team.html">Lara Maleon</a></h3>
-                        <p>Managment</p>
+                        <p>Human Resource</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="team_01 text-center">
                         <div class="tm_thumb">
-                            <img src="assets/images/team/3.jpg" alt="">
+                            <img src="assets/images/team/3.webp" alt="">
                             <div class="tm_social">
                                 <a href="https://www.facebook.com/"><i class="twi-facebook-f"></i></a>
                                 <a href="https://linkedin.com/"><i class="twi-linkedin-in"></i></a>
@@ -148,14 +148,14 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Adam Delaua</a></h3>
-                        <p>Founder</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Patience Okwube</a></h3>
+                        <p>Academics</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <div class="team_01 text-center">
                         <div class="tm_thumb">
-                            <img src="assets/images/team/4.jpg" alt="">
+                            <img src="assets/images/team/4.webp" alt="">
                             <div class="tm_social">
                                 <a href="https://www.facebook.com/"><i class="twi-facebook-f"></i></a>
                                 <a href="https://linkedin.com/"><i class="twi-linkedin-in"></i></a>
@@ -163,8 +163,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Jizz Merkel</a></h3>
-                        <p>Consultant</p>
+                        <h3><a href="https://themewar.com/html/quera/single-team.html">Onojeta Brown</a></h3>
+                        <p>IT Department</p>
                     </div>
                 </div>
             </div>
@@ -207,13 +207,8 @@
         </div>
     </section>
 
-
-
     <?php include "footer2.php"; ?>
-
-
     <a href="javascript:void(0);" id="backtotop"><i class="twi-arrow-to-top1"></i></a>
-
 
     <script data-cfasync="false" src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script>
     <script src="assets/js/jquery.js"></script>

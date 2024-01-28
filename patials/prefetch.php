@@ -1,0 +1,1 @@
+    <link rel="prefetch" href="admission.php" as="document" />

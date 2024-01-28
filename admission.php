@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
 
 
+    <link rel="stylesheet" href="assets/css/admission.css">
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
 
 </head>
@@ -488,7 +489,7 @@
                                     </button>
                                 </h2>
                             </div>
-                            <div id="ma_collapes_01" class="collapse" aria-labelledby="ma_ac_01" data-parent="#quAccordion01" style="">
+                            <div id="ma_collapes_01" class="collapse" aria-labelledby="ma_ac_01" data-parent="#quAccordion01" >
                                 <div class="card-body">
                                     To apply for admission, please purchase the application form directly from the school for N10,000 or download it <a href="#">here</a>. Complete the form and return it with the required documents.
                                 </div>
@@ -503,7 +504,7 @@
                                     </button>
                                 </h2>
                             </div>
-                            <div id="ma_collapes_02" class="collapse" aria-labelledby="ma_ac_02" data-parent="#quAccordion01" style="">
+                            <div id="ma_collapes_02" class="collapse" aria-labelledby="ma_ac_02" data-parent="#quAccordion01" >
                                 <div class="card-body">
                                     Required documents include a photocopy of the child's birth certificate, 2 passport-sized photos, photocopy of international passport, up-to-date immunization record, and last school report.
                                 </div>
@@ -518,7 +519,7 @@
                                     </button>
                                 </h2>
                             </div>
-                            <div id="ma_collapes_03" class="collapse" aria-labelledby="ma_ac_03" data-parent="#quAccordion01" style="">
+                            <div id="ma_collapes_03" class="collapse" aria-labelledby="ma_ac_03" data-parent="#quAccordion01" >
                                 <div class="card-body">
                                     Yes, you can download the application form online. Visit our website to access the form, fill it out, and follow the submission instructions.
                                 </div>
@@ -533,7 +534,7 @@
                                     </button>
                                 </h2>
                             </div>
-                            <div id="ma_collapes_04" class="collapse" aria-labelledby="ma_ac_04" data-parent="#quAccordion01" style="">
+                            <div id="ma_collapes_04" class="collapse" aria-labelledby="ma_ac_04" data-parent="#quAccordion01">
                                 <div class="card-body">
                                     The application form costs N10,000. You can purchase it directly from the school or download it online.
                                 </div>

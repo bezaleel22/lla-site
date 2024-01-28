@@ -24,7 +24,30 @@
 
 
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <?php include "patials/prefetch.php"; ?>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var areaOfInterest = document.getElementsByName('sponsor_interest')[0];
+            var amountField = document.querySelector('.input-field.col-lg-12 textarea[name="sponsor_message"]');
+            var button = document.querySelector('.input-field.col-lg-12 button.qu_btn');
+            console.log(areaOfInterest)
+            areaOfInterest.addEventListener('change', function() {
+                console.log(areaOfInterest.value)
+                if (areaOfInterest.value === 'Donation') {
+                    amountField.setAttribute('placeholder', 'Enter Donation Amount');
+                    amountField.setAttribute('type', 'number');
+                    button.textContent = 'Donate Now';
+                    console.log("donation")
+                } else {
+                    amountField.setAttribute('placeholder', 'Tell Us How You Would Like to Contribute...');
+                    amountField.setAttribute('type', 'text');
+                    button.textContent = 'Connect with Us';
+                    console.log("connect")
+                }
+            });
+        });
+    </script>
 </head>
 
 <body>
@@ -141,14 +164,14 @@
         </div>
     </section>
 
-    <section class="chooseSection chooseSection02">
+    <section id="sponsor" class="chooseSection chooseSection02">
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-xl-5">
-                    <div class="subTitle"><span class="bleft"></span>Explore Meaningful Collaborations</div>
-                    <h2 class="secTitle white">Empower Change through Partnership and Support</h2>
+                    <div class="subTitle"><span class="bleft"></span>Empower Change Through Your Support</div>
+                    <h2 class="secTitle white">Sponsorship, Projects, and Donations</h2>
                     <p class="secDesc">
-                        Join us on a journey to make a positive impact. By fostering partnerships and receiving generous donations, we aim to enhance our initiatives for the greater good. Your support can contribute to various projects and programs, creating lasting change in our community.
+                        Join us on a meaningful journey of impact. Your sponsorship, project funding, or donation plays a crucial role in advancing our initiatives. Together, we can make a positive and lasting difference in the lives of our students and the community.
                     </p>
                 </div>
                 <div class="col-xl-7 mt8">
@@ -159,8 +182,8 @@
                                     <div class="pin1"></div><i class="icon-local_1"></i>
                                     <div class="pin2"></div>
                                 </div>
-                                <h3>Empowerment</h3>
-                                <p>Your support empowers us to create positive change and uplift the community. Together, we can make a lasting impact.</p>
+                                <h3>Sponsor a Pupil</h3>
+                                <p>Your sponsorship empowers students, providing them with access to quality education, resources, and opportunities for a brighter future.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -169,8 +192,8 @@
                                     <div class="pin1"></div><i class="icon-local_3"></i>
                                     <div class="pin2"></div>
                                 </div>
-                                <h3>Innovation</h3>
-                                <p>Join us in generating innovative ideas that drive positive change and contribute to the betterment of society.</p>
+                                <h3>Fund Projects</h3>
+                                <p>Contribute to innovative projects that drive positive change within our academy and community, fostering growth and development.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -179,8 +202,8 @@
                                     <div class="pin1"></div><i class="icon-XjxC7N01"></i>
                                     <div class="pin2"></div>
                                 </div>
-                                <h3>Collaboration</h3>
-                                <p>Your partnership allows us to engage in meaningful collaborations that address community needs and challenges.</p>
+                                <h3>Make a Donation</h3>
+                                <p>Your generous donation supports our mission, enabling us to engage in meaningful collaborations and address the needs of our students and community.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -190,7 +213,7 @@
                                     <div class="pin2"></div>
                                 </div>
                                 <h3>Impactful Giving</h3>
-                                <p>Support us in building a successful and impactful business that contributes positively to the community.</p>
+                                <p>Partner with us in building a successful and impactful educational environment, contributing positively to the lives of our students and the community.</p>
                             </div>
                         </div>
                     </div>
@@ -204,43 +227,44 @@
             <div class="row">
                 <div class="col-xl-7">
                     <div class="appointment_form">
-                        <p>Become a Valued Partner</p>
-                        <h3>Explore Partnership Opportunities</h3>
-                        <form action="#" method="post" class="row" id="contact_form">
+                        <p>Become a Sponsor</p>
+                        <h3>Explore Sponsorship Opportunities</h3>
+                        <form action="#" method="post" class="row" id="sponsorship_form">
                             <div class="input-field col-lg-6">
-                                <input class="required" type="text" name="con_name" placeholder="Your Name">
+                                <input class="required" type="text" name="sponsor_name" placeholder="Your Name">
                             </div>
                             <div class="input-field col-lg-6">
-                                <input class="required" type="email" name="con_email" placeholder="Email Address">
+                                <input class="required" type="email" name="sponsor_email" placeholder="Email Address">
                             </div>
                             <div class="input-field icRight col-lg-12 select-area">
-                                <select class="required" name="con_subject" style="display: none;">
+                                <select class="required" name="sponsor_interest" style="display: none;">
                                     <option selected="selected">Area of Interest</option>
-                                    <option>Partnership Opportunities</option>
-                                    <option>Donation Options</option>
+                                    <option>Project Funding</option>
+                                    <option>Donation</option>
+                                    <option>Sponsorship</option>
                                 </select>
                                 <div class="nice-select required" tabindex="0"><span class="current">Area of Interest</span>
                                     <ul class="list">
-                                        <li data-value="Area of Interest" class="option selected">Area of Interest</li>
-                                        <li data-value="Partnership Opportunities" class="option">Partnership Opportunities</li>
-                                        <li data-value="Donation Options" class="option">Donation Options</li>
+                                        <li data-value="Area of Interest" class="option selected">Project Funding</li>
+                                        <li data-value="Sponsorship Opportunities" class="option">Donation</li>
+                                        <li data-value="Donation Options" class="option">Sponsorship</li>
                                     </ul>
                                 </div>
                             </div>
                             <div class="input-field col-lg-6">
                                 <i class="twi-calendar2"></i>
-                                <input class="required" type="text" name="con_date" placeholder="Date of Visit">
+                                <input class="required" type="text" name="sponsor_date" placeholder="Date of Interest">
                             </div>
                             <div class="input-field col-lg-6">
                                 <i class="twi-clock2"></i>
-                                <input class="required" type="text" name="con_time" placeholder="Time of Visit">
+                                <input class="required" type="text" name="sponsor_time" placeholder="Time of Interest">
                             </div>
                             <div class="input-field col-lg-12">
-                                <textarea class="required" name="con_message" placeholder="Describe Your Property Info...."></textarea>
+                                <textarea class="required" name="sponsor_message" placeholder="Tell Us How You Would Like to Contribute..."></textarea>
                             </div>
                             <div class="input-field col-lg-12">
                                 <button type="submit" class="qu_btn">Connect with Us</button>
-                                <div class="con_message"></div>
+                                <div class="sponsorship_message"></div>
                             </div>
                         </form>
                     </div>
@@ -269,14 +293,18 @@
                         </div>
                         <div class="hpAuthor">
                             <img class="author" src="assets/images/home3/author.png" alt="">
-                            <img src="assets/images/home3/sign.png" alt="">
-                            <div class="signAuthor">Rev. Dina Osayi – <span>Founder</span></div>
+                            <img width="100" src="assets/images/home3/sign_light.webp" alt="">
+                            <strong>
+                                <div class="">Rev. Dina Osayi – <span>Founder</span></div>
+                            </strong>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+
 
     <section class="teamSection02">
         <div class="container largeContainer">
@@ -288,6 +316,7 @@
             </div>
         </div>
     </section>
+
     <section class="ctaSection">
         <div class="container largeContainer">
             <div class="row">
@@ -393,8 +422,6 @@
                         <img src="assets/images/home3/3.webp" alt="">
                     </div>
                     <div class="chooseSlider owl-carousel owl-loaded owl-drag">
-
-
                         <div class="owl-stage-outer">
                             <div class="owl-stage" style="transform: translate3d(-378px, 0px, 0px); transition: all 0s ease 0s; width: 1134px;">
                                 <div class="owl-item cloned" style="width: 189px;">
@@ -409,7 +436,7 @@
                                         <p>Where young minds are oriented, inspire, imbue and empowered with productive principles and the fear of God.</p>
                                     </div>
                                 </div>
-                                <div class="owl-item active" style="width: 189px;">
+                                <div class="owl-item cloned" style="width: 189px;">
                                     <div class="chsItem">
                                         <img src="assets/images/home3/4.png" alt="">
                                         <p>Where every child feel listened to, cared for and valued.</p>
@@ -450,58 +477,10 @@
                     <div class="folioSlider02 owl-carousel owl-loaded owl-drag">
                         <div class="owl-stage-outer">
                             <div class="owl-stage" style="transform: translate3d(-626px, 0px, 0px); transition: all 0s ease 0s; width: 1878px;">
-                                <div class="owl-item cloned" style="width: 313px;">
-                                    <div class="folioItem03">
-                                        <div class="flThumb">
-                                            <img src="assets/images/folio/2.webp" alt="">
-                                            <a href="single-folio.html">+</a>
-                                        </div>
-                                        <div class="folioContent">
-                                            <h3><a href="single-folio.html">Growth Instruction</a></h3>
-                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Business</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 313px;">
-                                    <div class="folioItem03">
-                                        <div class="flThumb">
-                                            <img src="assets/images/folio/3.webp" alt="">
-                                            <a href="single-folio.html">+</a>
-                                        </div>
-                                        <div class="folioContent">
-                                            <h3><a href="single-folio.html">Business Managment</a></h3>
-                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Consultancy</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 313px;">
-                                    <div class="folioItem03">
-                                        <div class="flThumb">
-                                            <img src="assets/images/folio/4.webp" alt="">
-                                            <a href="single-folio.html">+</a>
-                                        </div>
-                                        <div class="folioContent">
-                                            <h3><a href="single-folio.html">Growth Instruction</a></h3>
-                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Business</a>
-                                        </div>
-                                    </div>
-                                </div>
                                 <div class="owl-item active" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/5.webp" alt="">
-                                            <a href="single-folio.html">+</a>
-                                        </div>
-                                        <div class="folioContent">
-                                            <h3><a href="single-folio.html">Business Managment</a></h3>
-                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Consultancy</a>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="owl-item cloned" style="width: 313px;">
-                                    <div class="folioItem03">
-                                        <div class="flThumb">
-                                            <img src="assets/images/folio/6.webp" alt="">
+                                            <img loading="lazy" src="assets/images/folio/1.avif" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
@@ -513,7 +492,55 @@
                                 <div class="owl-item cloned" style="width: 313px;">
                                     <div class="folioItem03">
                                         <div class="flThumb">
-                                            <img src="assets/images/folio/7.webp" alt="">
+                                            <img loading="lazy" src="assets/images/folio/2.avif" alt="">
+                                            <a href="single-folio.html">+</a>
+                                        </div>
+                                        <div class="folioContent">
+                                            <h3><a href="single-folio.html">Business Managment</a></h3>
+                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Consultancy</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 313px;">
+                                    <div class="folioItem03">
+                                        <div class="flThumb">
+                                            <img loading="lazy" src="assets/images/folio/3.avif" alt="">
+                                            <a href="single-folio.html">+</a>
+                                        </div>
+                                        <div class="folioContent">
+                                            <h3><a href="single-folio.html">Growth Instruction</a></h3>
+                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Business</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 313px;">
+                                    <div class="folioItem03">
+                                        <div class="flThumb">
+                                            <img loading="lazy" src="assets/images/folio/4.avif" alt="">
+                                            <a href="single-folio.html">+</a>
+                                        </div>
+                                        <div class="folioContent">
+                                            <h3><a href="single-folio.html">Business Managment</a></h3>
+                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Consultancy</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 313px;">
+                                    <div class="folioItem03">
+                                        <div class="flThumb">
+                                            <img loading="lazy" src="assets/images/folio/5.avif" alt="">
+                                            <a href="single-folio.html">+</a>
+                                        </div>
+                                        <div class="folioContent">
+                                            <h3><a href="single-folio.html">Growth Instruction</a></h3>
+                                            <a class="cat" href="https://themewar.com/html/quera/folio1.html">Business</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="owl-item cloned" style="width: 313px;">
+                                    <div class="folioItem03">
+                                        <div class="flThumb">
+                                            <img loading="lazy" src="assets/images/folio/6.avif" alt="">
                                             <a href="single-folio.html">+</a>
                                         </div>
                                         <div class="folioContent">
@@ -530,7 +557,7 @@
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <div class="fThumb">
-                        <img src="assets/images/home3/1.webp" alt="">
+                        <img loading="lazy" src="assets/images/home3/1.webp" alt="">
                         <a href="https://themewar.com/html/quera/folio1.html">View</a>
                     </div>
                 </div>
