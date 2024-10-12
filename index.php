@@ -18,7 +18,7 @@
 
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/settings.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/preset.css" />
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/ignore_for_wp.css" />
+    <link rel="stylesheet" href="assets/css/ignore_for_wp.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/theme.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/onos9/eduweb@main/assets/css/responsive.css" />
     
@@ -114,7 +114,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
 
-                    <h2 class="secTitle">Student's Connect</h2>
+                    <h2 class="secTitle">Students' Connect</h2>
                 </div>
             </div>
             <div class="row">
@@ -150,7 +150,7 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <p class="secDesc">Have a question? check our guide</p>
-                    <h4>Get answers in few minutes</h4>
+                    <h4>Get answers in a few minutes</h4>
                     <div class="clearfix"></div>
                     <a class="qu_btn" href="contact.php">Contact Us</a>
                 </div>
@@ -180,7 +180,7 @@
                                     <div class="pin2"></div>
                                 </div>
                                 <h3>Sponsor a Pupil</h3>
-                                <p>Your sponsorship empowers students, providing them with access to quality education, resources, and opportunities for a brighter future.</p>
+                                <p>Your sponsorship empowers students' by providing them with access to quality education, resources, and opportunities for a brighter future.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -190,7 +190,7 @@
                                     <div class="pin2"></div>
                                 </div>
                                 <h3>Fund Projects</h3>
-                                <p>Contribute to innovative projects that drive positive change within our academy and community, fostering growth and development.</p>
+                                <p>Contribute to innovative projects that drive positive changes within our academy and community, fostering growth and development.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -200,7 +200,7 @@
                                     <div class="pin2"></div>
                                 </div>
                                 <h3>Make a Donation</h3>
-                                <p>Your generous donation supports our mission, enabling us to engage in meaningful collaborations and address the needs of our students and community.</p>
+                                <p>Your generous donation supports our mission thereby enabling us to engage in meaningful collaborations and address the needs of our students and community.</p>
                             </div>
                         </div>
                         <div class="col-md-6">
@@ -210,7 +210,7 @@
                                     <div class="pin2"></div>
                                 </div>
                                 <h3>Impactful Giving</h3>
-                                <p>Partner with us in building a successful and impactful educational environment, contributing positively to the lives of our students and the community.</p>
+                                <p>Partner with us in building a successful and impactful educational environment by contributing positively to the lives of our students and the community.</p>
                             </div>
                         </div>
                     </div>
@@ -292,7 +292,7 @@
                             <img class="author" src="assets/images/home3/author.png" alt="">
                             <img width="100" src="assets/images/home3/sign_light.webp" alt="">
                             <strong>
-                                <div class="">Rev. Dina Osayi – <span>Founder</span></div>
+                                <div class="">Rev. Dinna Osayi – <span>Founder</span></div>
                             </strong>
                         </div>
                     </div>
@@ -307,7 +307,7 @@
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <div class="subTitle"><span class="bleft"></span>Our Instructors<span class="bright"></span></div>
+                    <div class="subTitle"><span class="bleft"></span>Meet Our Exceptional Instructors<span class="bright"></span></div>
                     <h2 class="secTitle">Expert<span>Team</span></h2>
                 </div>
             </div>
@@ -334,7 +334,7 @@
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-xl-6 pdAcc">
-                    <div class="subTitle"><span class="bleft"></span>Why Choose Us</div>
+                    <div class="subTitle"><span class="bleft"></span>Why Choose Us?</div>
                     <h2 class="secTitle">Get Every Answer</h2>
                     <div class="accordion quAccordion" id="quAccordion01">
                         <div class="card">

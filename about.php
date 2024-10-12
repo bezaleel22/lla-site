@@ -44,14 +44,14 @@
                     <div class="abpd">
                         <div class="subTitle">
                             <span class="bleft"></span>
-                            Discover Lighthouse Academy
+                            Discover Lighthouse Leading Academy
                         </div>
                         <h2 class="secTitle">Empowering Futures</h2>
                         <p class="secDesc">
                             Welcome to Lighthouse Leading Academy, the pinnacle of Christian Education in Africa. Your decision to join us reflects a wise and informed choice, as we offer a rich blend of spiritual heritage and academic excellence, providing ample opportunities for your fullest potential.
                         </p>
                         <p class="secDesc">
-                            Lighthouse Academy is committed to delivering a comprehensive, world-class education that nurtures the creative core of every child. Our curriculum seamlessly integrates Nigerian, British, and Christian principles, taught by a highly trained faculty. In a secure, stimulating environment, we strive for a well-rounded development of our students.
+                            Lighthouse Leading Academy is committed to delivering a comprehensive, world-class education that nurtures the creative core of every child. Our curriculum seamlessly integrates Nigerian, British, and Christian principles, taught by a highly trained faculty. In a secure, stimulating environment, we strive for a well-rounded development of our students.
                         </p>
                         <hr>
                         <p class="secDesc">
@@ -63,7 +63,7 @@
                         <div class="hpAuthor">
                             <img class="author" src="assets/images/about/1.png" alt="">
                             <p>Need help? Contact Us</p>
-                            <h3>(625)-1251-6677</h3>
+                            <h3>+2349169801738</h3>
                         </div>
                     </div>
                 </div>
@@ -102,7 +102,7 @@
         <div class="container largeContainer">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <div class="subTitle"><span class="bleft"></span>Our Admin<span class="bright"></span></div>
+                    <div class="subTitle"><span class="bleft"></span>Our Management<span class="bright"></span></div>
                     <h2 class="secTitle">Meet The <span>Team</span></h2>
                 </div>
             </div>
@@ -118,8 +118,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Abigirl OJ</a></h3>
-                        <p>Managment</p>
+                        <h3><a href="javascript:void(0);">Abigail Ojone John</a></h3>
+                        <p>School Administrator</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -133,8 +133,8 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Lara Maleon</a></h3>
-                        <p>Human Resource</p>
+                        <h3><a href="javascript:void(0);">Charles Moses</a></h3>
+                        <p>Human Resource Manager</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6">
@@ -148,7 +148,7 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Patience Okwube</a></h3>
+                        <h3><a href="javascript:void(0);">Patience Okwube</a></h3>
                         <p>Academics</p>
                     </div>
                 </div>
@@ -163,7 +163,7 @@
                             </div>
                             <a class="tmsToggle" href="javascript:void(0);">+</a>
                         </div>
-                        <h3><a href="https://themewar.com/html/quera/single-team.html">Onojeta Brown</a></h3>
+                        <h3><a href="javascript:void(0);">Onojeta Brown</a></h3>
                         <p>IT Department</p>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
             <div class="row">
                 <div class="col-xl-6">
                     <div class="wpProcess">
-                        <img src="assets/images/home2/22.jpg" alt="">
+                        <img src="assets/images/home2/22.avif" alt="">
                         <div class="IconImage"><img src="assets/images/home2/1.png" alt=""></div>
                     </div>
                 </div>

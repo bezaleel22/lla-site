@@ -25,7 +25,7 @@
                 </div>
                 <div class="col-lg-9 col-md-8">
                     <div class="topbar">
-                        <p><i class="twi-bolt"></i>Need Help? Call +2348127823406</p>
+                        <p><i class="twi-bolt"></i>Need Help? Call +2348127823406, +2349169801738</p>
                         <div class="tpRight">
                             <a class="lang" href="javascript:void(0);"><i class="twi-globe2"></i>English</a>
                             <div class="tpSocail">

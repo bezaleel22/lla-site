@@ -2,7 +2,7 @@
     <div class="container largeContainer">
         <div class="row">
             <div class="col-lg-7 col-md-6">
-                <h2 class="secTitle">Sign up for latest news and<br> insights from <span>Light house academy.</span></h2>
+                <h2 class="secTitle">Sign up for latest news and<br> insights from <span>LightHouse Leading Academy.</span></h2>
             </div>
             <div class="col-lg-5 col-md-6">
                 <div class="SubsrcribeForm">
@@ -22,10 +22,10 @@
             <div class="col-md-6 col-lg-3">
                 <div class="aboutWidget">
                     <h5>Do you have questions? Call or visit us.</h5>
-                    <div class="phone"><i class="twi-phone"></i>+2348127823406</div>
+                    <div class="phone"><i class="twi-phone"></i>+2348127823406 +2349169801738</div>
                     <p>No. 20 Genabe Zone, beside Shammah Plaza,
                         Welfare Quarters Makurdi, Benue State.</p>
-                    <a href=""><span class="__cf_email__">lighthouseleadingacademy@gmail.com</span></a>
+              <a href=""><span class="__cf_email__" >support@llacademy.ng</span></a>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3">
@@ -74,7 +74,7 @@
     <div class="container largeContainer">
         <div class="row">
             <div class="col-md-6">
-                <p>© 2022 - 2022 Light house academy. All Rights Reserved.</p>
+                <p>© 2022 - 2022 LightHouse Leading Academy. All Rights Reserved.</p>
             </div>
             <div class="col-md-6">
                 <div class="copyMenu">

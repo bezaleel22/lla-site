@@ -65,7 +65,7 @@
                     <div class="icon_box_03">
                         <div class="ib_box"><i class=" icon-local_3"></i><span>02</span></div>
                         <h3>Review</h3>
-                        <p>Our admissions team carefully reviews each application to ensure eligibility and completeness.</p>
+                        <p>Our admission team carefully reviews each application to ensure eligibility and completeness.</p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center">
@@ -159,7 +159,7 @@
                             </div>
                             <div class="col-lg-2 text-center">
                                 <div class="orcta">
-                                    <p>or</p>
+                                    <p>&</p>
                                 </div>
                             </div>
                             <div class="col-lg-5 text-right">
@@ -175,8 +175,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <div class="subTitle"><span class="bleft"></span>What Parents Say<span class="bright"></span></div>
-                    <h2 class="secTitle">Parent’s <span>Feedback</span></h2>
+                    <div class="subTitle"><span class="bleft"></span>What Parents' Say<span class="bright"></span></div>
+                    <h2 class="secTitle">Parents' <span>Feedback</span></h2>
                 </div>
             </div>
             <div class="row">
@@ -192,11 +192,11 @@
                                     <div class="testiItem01">
                                         <img src="assets/images/home1/quote.png" alt="">
                                         <p class="quotation">
-                                            "Lighthouse Academy's nurturing EYFS environment laid a strong foundation for our child. Excellent Instructors and transformative experience."
+                                            "Grateful for my children's values, academic dedication, and godly spirit nurtured effortlessly at Lighthouse Leading Academy. Truly a blessing."
                                         </p>
                                         <div class="ts_author">
                                             <img src="assets/images/home1/t1.jpg" alt="">
-                                            <h5>Emily Johnson</h5>
+                                            <h5>Mrs Peace C. Ati</h5>
                                             <span>Parent of EYFS Student</span>
                                         </div>
                                     </div>
@@ -205,12 +205,12 @@
                                     <div class="testiItem01">
                                         <img src="assets/images/home1/quote.png" alt="">
                                         <p class="quotation">
-                                            "Academy's focus on excellence and character positively shaped our Grader's journey. Exceeded expectations, shaping a bright future."
+                                            "Lighthouse Leading Academy is a sanctuary for education, brilliantly dispelling darkness with intellectual rigor, Christian values, and character growth—a radiant beacon of hope."
                                         </p>
                                         <div class="ts_author">
                                             <img src="assets/images/home1/t2.jpg" alt="">
-                                            <h5>John Rodriguez</h5>
-                                            <span>Parent of Grader</span>
+                                            <h5>Mrs Josephine Ityav</h5>
+                                            <span>Parent in Grader</span>
                                         </div>
                                     </div>
                                 </div>
@@ -218,25 +218,25 @@
                                     <div class="testiItem01">
                                         <img src="assets/images/home1/quote.png" alt="">
                                         <p class="quotation">
-                                            "Lighthouse Academy caters to diverse needs, providing personalized attention. Excellent choice for EYFS and Graders, engaging curriculum."
+                                            "Light House Leading Academy excels in countering wrong education, instilling Christian values, and fostering character development, a beacon of enlightenment."
                                         </p>
                                         <div class="ts_author">
                                             <img src="assets/images/home1/t3.jpg" alt="">
-                                            <h5>Samantha Williams</h5>
-                                            <span>Parent of Students in EYFS and Grader</span>
+                                            <h5>Dr. Iorfa Tor-Anyin</h5>
+                                            <span>Parent in EYFS and Grader</span>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="owl-item" style="width: 386.667px; margin-right: 30px;">
+                                <div class="owl-item active" style="width: 386.667px; margin-right: 30px;">
                                     <div class="testiItem01">
                                         <img src="assets/images/home1/quote.png" alt="">
                                         <p class="quotation">
-                                            "Seamless transition from EYFS to Graders. Student-centric approach ensures continuous, enriching learning experience. Highly satisfied with the academy."
+                                           "In the realm of education, Lighthouse Leading Academy outshines, fostering excellence, instilling Christian values, and molding character—an unrivaled beacon."
                                         </p>
                                         <div class="ts_author">
-                                            <img src="assets/images/home1/t1.jpg" alt="">
-                                            <h5>Christopher Davis</h5>
-                                            <span>Parent of EYFS Graduate</span>
+                                            <img src="assets/images/home1/t4.jpg" alt="">
+                                            <h5>Mrs. Paulina Isaac</h5>
+                                            <span>Parent in EYFS</span>
                                         </div>
                                     </div>
                                 </div>
